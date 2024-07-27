@@ -1,0 +1,28 @@
+{
+  "header": {
+    "home": "Asosiy Sahifa",
+    "branches": "Filiallar",
+    "contact": "Kontaktlar",
+    "cart": "Savat"
+  },
+  "language": {
+    "word": "Tilni tanlang"
+  },
+  "button": {
+    "add": "Savatga Qo'shish"
+  },
+  "price": {
+    "value": "so'm"
+  },
+  "created": {
+    "creater": "Bu sayt Abdullayev Muhammad tomonidan yaratilgan"
+  },
+  "contact": {
+    "heading": "Kontaktlar",
+    "call": "Aloqa-Markazi / Yetkazib berish:",
+    "officeAddres": "Ofis manzili:",
+    "addres": "Alisher Navoiy ko'chasi, Jizzax, King Burger",
+    "officeTime": "Office ish vaqti:",
+    "email": "Email:"
+  }
+}
